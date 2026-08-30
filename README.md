@@ -9,7 +9,7 @@ A hands-on implementation and visualization of **Deterministic Finite Automata (
 
 Watch the complete explanation and step-by-step code demonstration:
 
-https://github.com/Akshara-Yannam/ACD/blob/main/Untitled.mov
+https://github.com/RavalikaGundubogula/ACD/blob/main/untitled.mov.mp4
 
 ---
 
